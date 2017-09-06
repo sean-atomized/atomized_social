@@ -1,3 +1,3 @@
-module AtomizedSocial
-  VERSION = "0.1.0"
+class AtomizedSocial
+  VERSION = '0.0.0'
 end
